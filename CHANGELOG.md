@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.30](https://github.com/nanjingcaiyong/vue3-template/compare/v0.0.29...v0.0.30) (2022-02-21)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 删除多语言 页面 ([b80fab8](https://github.com/nanjingcaiyong/vue3-template/commit/b80fab8f38617b3aa0f28c20afa147e1a7b1f6b0))
+
 ### [0.0.29](https://github.com/nanjingcaiyong/vue3-template/compare/v0.0.28...v0.0.29) (2022-02-21)
 
 
