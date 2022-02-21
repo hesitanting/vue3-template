@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.29](https://github.com/nanjingcaiyong/vue3-template/compare/v0.0.28...v0.0.29) (2022-02-21)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 删除tabs 组件 ([93fd61d](https://github.com/nanjingcaiyong/vue3-template/commit/93fd61d8f27eec14fd8a697d43a0e118aa049e65))
+
 ### [0.0.28](https://github.com/nanjingcaiyong/vue3-template/compare/v3.0.7...v0.0.28) (2022-02-18)
 
 ### [0.0.27](https://github.com/nanjingcaiyong/vue3-template/compare/v0.0.20...v0.0.27) (2022-02-18)
