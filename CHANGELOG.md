@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.31](https://github.com/nanjingcaiyong/vue3-template/compare/v0.0.30...v0.0.31) (2022-02-21)
+
+
+### ✨ Features | 新功能
+
+* meta.js ([cbfacb0](https://github.com/nanjingcaiyong/vue3-template/commit/cbfacb05af6f20250af8738769aff1279325f903))
+
 ### [0.0.30](https://github.com/nanjingcaiyong/vue3-template/compare/v0.0.29...v0.0.30) (2022-02-21)
 
 
